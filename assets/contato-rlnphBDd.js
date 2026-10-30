@@ -1,1 +1,0 @@
-import{s as e}from"./index-v-EFhWaD.js";import{t}from"./studio-4HGczlY4.js";var n=e();function r(){return(0,n.jsx)(t,{section:`contato`})}export{r as component};
