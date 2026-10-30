@@ -1,1 +1,0 @@
-import{s as e}from"./index-FHYCGjPn.js";import{t}from"./studio-BEU6DbRv.js";var n=e();function r(){return(0,n.jsx)(t,{section:`servicos`})}export{r as component};
