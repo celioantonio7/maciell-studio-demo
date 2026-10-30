@@ -1,0 +1,1 @@
+import{s as e}from"./index-4S3WHICr.js";import{t}from"./studio-CK1kSpag.js";var n=e();function r(){return(0,n.jsx)(t,{section:`servicos`})}export{r as component};
