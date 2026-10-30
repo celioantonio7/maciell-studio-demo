@@ -1,0 +1,1 @@
+import{s as e}from"./index-BtCI8W6p.js";import{t}from"./studio-1Ffod3Io.js";var n=e();function r(){return(0,n.jsx)(t,{section:`depoimentos`})}export{r as component};
