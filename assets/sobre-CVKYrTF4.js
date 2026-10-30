@@ -1,1 +1,0 @@
-import{s as e}from"./index-BvtzvPPk.js";import{t}from"./studio-UDELzsMP.js";var n=e();function r(){return(0,n.jsx)(t,{section:`sobre`})}export{r as component};
