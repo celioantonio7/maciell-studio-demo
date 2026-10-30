@@ -1,1 +1,0 @@
-import{s as e}from"./index-CwOrkQPP.js";import{t}from"./studio-CvnFoQMW.js";var n=e();function r(){return(0,n.jsx)(t,{section:`servicos`})}export{r as component};

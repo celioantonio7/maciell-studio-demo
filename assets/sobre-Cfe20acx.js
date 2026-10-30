@@ -1,0 +1,1 @@
+import{s as e}from"./index-Gu0HR8lx.js";import{t}from"./studio-C-kc_cLq.js";var n=e();function r(){return(0,n.jsx)(t,{section:`sobre`})}export{r as component};
