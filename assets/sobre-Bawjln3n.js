@@ -1,0 +1,1 @@
+import{s as e}from"./index-BKX8KIsc.js";import{t}from"./studio-DE_qKSgC.js";var n=e();function r(){return(0,n.jsx)(t,{section:`sobre`})}export{r as component};
